@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vitor Melo.
 - 🌎 I'm originally from Brazil.
-- 👀 I’m Pursuing a PhD in Economcis at Clemson University.
+- 👀 I’m Pursuing a PhD in Economics at Clemson University.
 - 🌱 I’m currently working on three major projects on the economic impact of regulation in gasoline and health markets. 
 - 💻 The softwares I primarily use are Stata, R, and ArcGIS.
 - 📫 You may reach me at: vmelo@clemson.edu
